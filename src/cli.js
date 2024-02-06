@@ -1,5 +1,6 @@
 // src/cli.js
-import readlineSync from 'readline-sync';
+
+import 'readline-sync';
 
 export default function greetUser() {
     console.log(brain-games)

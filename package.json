@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "braces": "^2.3.1",
-    "brain-even": "^1.0.0"
+    "brain-even": "^1.0.0",
+    "n": "^9.2.0"
   }
 }
