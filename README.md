@@ -13,3 +13,10 @@
 <a href="https://asciinema.org/a/viyO0ToBYIgoHYuEK4dJFs1Vk" target="_blank"><img src="https://asciinema.org/a/viyO0ToBYIgoHYuEK4dJFs1Vk.svg" /></a>
 ## Make: 
 <a href="https://asciinema.org/a/AvbA2z3wJDCLAZbJJJoHrL9GO" target="_blank"><img src="https://asciinema.org/a/AvbA2z3wJDCLAZbJJJoHrL9GO.svg" /></a>
+import readlineSync from 'readline-sync';
+
+export default function greetUser() {
+  console.log('Welcome to the Brain Games!');
+  const name = readlineSync.question('May I have your name? ');
+  console.log(`Hello, ${name}!`);
+}
