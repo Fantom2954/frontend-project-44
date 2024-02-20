@@ -3,7 +3,7 @@ import runGame from '../game.js';
 
 const isEven = (number) => number % 2 === 0;
 
-const description = 'Answer "yes" if the number is even, otherwise answer "no".';
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 const generateRound = () => {
   const number = getRandomNumber(0, 25);
   const question = String(number);
