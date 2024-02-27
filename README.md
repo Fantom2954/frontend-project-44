@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Fantom2954/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Fantom2954/frontend-project-44/actions)
-<a href="https://codeclimate.com/github/Fantom2954/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/727a23e479e7f1bd387e/maintainability" /></a>
+<a href="https://codeclimate.com/github/Fantom2954/frontend-project-444/maintainability"><img src="https://api.codeclimate.com/v1/badges/9e1ee819dd8f9c6ea1a6/maintainability" /></a>
 ## Brain-even game:
 <a href="https://asciinema.org/a/YZxQiqpbtxR55rYJ6M93Fr45u" target="_blank"><img src="https://asciinema.org/a/YZxQiqpbtxR55rYJ6M93Fr45u.svg" /></a>
 ## Brain-calc game:
